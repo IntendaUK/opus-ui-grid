@@ -2,7 +2,7 @@
 import React, { useEffect, useContext } from 'react';
 
 //System
-import { createContext, ThemedComponent, useEffectSkipFirst, DataLoaderHelper } from 'opus-ui';
+import { createContext, ThemedComponent, useEffectSkipFirst, DataLoaderHelper } from '@intenda/opus-ui';
 
 //Components
 import Columns from './components/columns/columns';

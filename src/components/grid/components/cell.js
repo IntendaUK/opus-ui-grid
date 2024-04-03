@@ -2,7 +2,7 @@
 import React from 'react';
 
 //System Helpers
-import { generateClassNames } from 'opus-ui';
+import { generateClassNames } from '@intenda/opus-ui';
 
 //Components
 import { CellComponents } from './cellComponents/cellComponents';

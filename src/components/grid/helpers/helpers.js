@@ -1,5 +1,5 @@
 //System
-import { generateClassNames } from 'opus-ui';
+import { generateClassNames } from '@intenda/opus-ui';
 
 export const calcClassNames = ({
 	state: {

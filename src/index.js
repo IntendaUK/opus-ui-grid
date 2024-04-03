@@ -11,7 +11,7 @@ import { Grid } from './components/grid';
 import propsGrid from './components/grid/props';
 
 //Opus Lib
-import Opus from 'opus-ui';
+import Opus from '@intenda/opus-ui';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 

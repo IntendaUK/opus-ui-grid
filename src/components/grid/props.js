@@ -1,7 +1,7 @@
 /* eslint-disable max-lines, max-len */
 
 //CSS Map Functions
-import { mapToColor, mapToSize, propsSharedDataLoader, propsSharedDataLoaderExternal } from 'opus-ui';
+import { mapToColor, mapToSize, propsSharedDataLoader, propsSharedDataLoaderExternal } from '@intenda/opus-ui';
 
 //Props
 import internalProps from './internalProps';
