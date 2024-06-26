@@ -41,7 +41,7 @@ export default defineConfig(() => ({
 	build: {
 		lib: {
 			entry: resolve('src', 'library.js'),
-			name: '@intenda/opus-ui-drag-move',
+			name: '@intenda/opus-ui-grid',
 			formats: ['es'],
 			fileName: () => `lib.js`,
 		},
