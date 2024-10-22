@@ -2,7 +2,7 @@
 	"components": [
 		{
 			"name": "grid",
-			"path": "src/components/grid"
+			"path": "dist/components/grid"
 		}
 	]
 }

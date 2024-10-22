@@ -1,40 +1,40 @@
 {
 	"propSpecConfig": {
-		"path": "src/components/grid/props.js",
+		"path": "dist/components/grid/props.js",
 		"functions": [
 			{
 				"key": "mapToColor",
-				"path": "src/props/cssMaps/mapToColor.js"
+				"path": "dist/props/cssMaps/mapToColor.js"
 			},
 			{
 				"key": "mapToSize",
-				"path": "src/props/cssMaps/mapToSize.js"
+				"path": "dist/props/cssMaps/mapToSize.js"
 			}
 		],
 		"dependents": [
 			{
-				"path": "src/components/grid/internalProps.js",
+				"path": "dist/components/grid/internalProps.js",
 				"functions": [],
 				"dependents": []
 			},
 			{
 				"fileExistsInOpusUiFolder": true,
-				"path": "src/components/dataLoader/propsShared.js",
+				"path": "dist/components/dataLoader/propsShared.js",
 				"functions": [
 					{
 						"key": "filtersSet",
-						"path": "src/props/actions/filtersSet.js"
+						"path": "dist/props/actions/filtersSet.js"
 					},
 					{
 						"key": "filtersDelete",
-						"path": "src/props/actions/filtersDelete.js"
+						"path": "dist/props/actions/filtersDelete.js"
 					}
 				],
 				"dependents": []
 			},
 			{
 				"fileExistsInOpusUiFolder": true,
-				"path": "src/components/dataLoader/propsSharedExternal.js",
+				"path": "dist/components/dataLoader/propsSharedExternal.js",
 				"functions": [],
 				"dependents": []
 			}
