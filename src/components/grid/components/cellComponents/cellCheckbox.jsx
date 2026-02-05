@@ -13,7 +13,7 @@ const CellCheckbox = ({ value, onClickHandler }) => {
 
 	return (
 		<div className={iconClass}>
-			<div className='material-icons icon' onClick={onClickHandler}>
+			<div className='material-symbols-outlined icon' onClick={onClickHandler}>
 				{icon}
 			</div>
 		</div>

@@ -7,7 +7,7 @@ const CellIcon = ({ value, style }) => {
 
 	return (
 		<div className={iconClass} style={style}>
-			<div className='material-icons icon'>
+			<div className='material-symbols-outlined icon'>
 				{value}
 			</div>
 		</div>
