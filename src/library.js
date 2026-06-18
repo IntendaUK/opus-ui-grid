@@ -1,6 +1,9 @@
 //Components
 import { Grid } from './components/grid';
 
+//Components
+export * from './libraryComponents';
+
 //PropSpecs
 import propsGrid from './components/grid/props';
 
